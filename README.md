@@ -19,6 +19,10 @@ This program can help to get network,netmask,iface,output ip,metric.you can use 
 <li><a href="https://termux.com">termux</li>
 </ul>
 
+### setup ###
+
+pip install -r requirements.txt
+
 ### Termux Command ###
 
 git clone https://github.com/r3k4t/route.git
