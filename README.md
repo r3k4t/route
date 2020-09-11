@@ -13,7 +13,7 @@
 
 This program can help to get network,netmask,iface,output ip,metric.you can use it android termux app.you can also see your local Ip address.(No-Root) 
 
-### Android ###
+### Android Terminal ###
 
 <ul>
 <li><a href="https://termux.com">termux</li>
